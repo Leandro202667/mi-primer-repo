@@ -1,17 +1,17 @@
 # Mi Primer Repositorio
 
-Bienvenido a este projecto de ejemplo.
+Bienvenido a este proyecto de ejemplo.
 
-## Descripcion
+## Descripción
 
-Este es un repositorio de practica para aprender a usar GitHub.
+Este es un repositorio de práctica para aprender a usar GitHub.
 
-## Como usar
+## Cómo usar
 
 1. Clona el repositorio
 2. Explora los archivos
 3. Haz tus cambios
 
-## Contibuciones
+## Contribuciones
 
-Las contribuciones son bienvenidas!
+¡Las contribuciones son bienvenidas!
